@@ -60,4 +60,3 @@ https://roblox.com.nf/captcha.php
 🚩 7. roblox.com.do, roblox.com.kz, roblox.com.ht, etc.
 Variaciones regionales de phishing detectadas en múltiples TLDs
 
-Ejemplo de phishing geográfico con captcha.php y formularios de login falsos
